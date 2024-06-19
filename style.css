@@ -38,7 +38,7 @@ body {
 .name {
     text-align: center;
 }
-.name h2 {
+.name h1 {
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 1.5rem;
